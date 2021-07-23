@@ -5,13 +5,13 @@
 #### 如何构建软件
 
 ``` bash
-# install dependencies
+# 安装依赖
 yarn
 
-# serve with hot reload at localhost:9080
+# 启动开发环境
 yarn run dev
 
-# build electron application for production
+# app 本地打包
 yarn run build
 
 
