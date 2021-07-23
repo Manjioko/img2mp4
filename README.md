@@ -1,22 +1,20 @@
 # img2mp4
 
-> This is a convetor
+> 这是一款本地媒体格式转换软件,主要在常用的媒体上进行相互转换,比如 mp4 转 gif, jpg 转 mp4 等等.
 
-#### Build Setup
+#### 如何构建软件
 
 ``` bash
 # install dependencies
-npm install
+yarn
 
 # serve with hot reload at localhost:9080
-npm run dev
+yarn run dev
 
 # build electron application for production
-npm run build
+yarn run build
 
 
 ```
 
----
 
-This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
