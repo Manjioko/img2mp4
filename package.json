@@ -55,7 +55,7 @@
     }
   },
   "dependencies": {
-    "fluent-ffmpeg": "^2.1.2",
+    "ffmpeg-static": "^4.4.0",
     "multispinner": "^0.2.1",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6",
